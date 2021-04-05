@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_notifications_entries">
+        <item>Show last 25 notifications</item>
+        <item>Show last 50 notifications</item>
+        <item>Show last 100 notifications</item>
+    </string-array>
+    <string-array name="filter_notifications_values">
+        <item>last25</item>
+        <item>last50</item>
+        <item>last100</item>
+    </string-array>
+    <string-array name="setting_ble_emitter_transmit_power_labels">
+        <item>@string/ble_transmit_power_label_high</item>
+        <item>@string/ble_transmit_power_label_medium</item>
+        <item>@string/ble_transmit_power_label_low</item>
+        <item>@string/ble_transmit_power_label_ultra_low</item>
+    </string-array>
+    <string-array name="setting_ble_emitter_transmit_power_values">
+        <item>@string/ble_transmit_power_value_high</item>
+        <item>@string/ble_transmit_power_value_medium</item>
+        <item>@string/ble_transmit_power_value_low</item>
+        <item>@string/ble_transmit_power_value_ultra_low</item>
+    </string-array>
+</resources>
